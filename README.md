@@ -3,7 +3,9 @@
 
 ## 数据结构
 
-- data.zip（首先解压缩，得到所用的数据）
+- data（去官网下载数据到data下）
+
+	- output（保存中间数据）
 
 - code（EDA + feature + model + trend）
 
